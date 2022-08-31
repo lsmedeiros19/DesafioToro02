@@ -1,0 +1,25 @@
+{
+  "cblc": 1234,
+  "checkingAccountAmount": 2000.00,
+  "positions": [
+    {
+      "cblc": 1234,
+      "symbol": "PETR4",
+      "amount": 2,
+      "currentPrice": 28.50
+    },
+    {
+      "cblc": 1234,
+      "symbol": "SANB11",
+      "amount": 3,
+      "currentPrice": 40.25
+    },
+    {
+      "cblc": 1234,
+      "symbol": "AZUL4",
+      "amount": 5,
+      "currentPrice": 38.52
+    }
+  ],
+  "consolidated": 0
+}
